@@ -2,6 +2,8 @@
 
 Animated ASCII waves for your website background.
 
+![ascii-waves demo](https://raw.githubusercontent.com/seun-ipaye/ascii-waves/main/assets/demo.gif)
+
 Slow waves roll across a black field of tiny characters, so parts of the screen glow and fade like a breathing tide. Hover, click, tap, or drag and the water reacts: it dents where you press, then sends a ripple outward.
 
 - Works with **React** or **plain JavaScript**
